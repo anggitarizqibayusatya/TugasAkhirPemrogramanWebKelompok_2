@@ -1,3 +1,9 @@
+## Anggota Kelompok 2 :
+1. Muhammad Dikaisa Ibnu Amin
+2. Rifqi Herlambang
+3. Bayu Rohmadani
+4. Anggita Rizqi Bayusatya
+5. 
 ## Deskripsi Aplikasi
 Import file sql yang ada didalam folder db_sql ke phpmy admin.
 <br><br>
