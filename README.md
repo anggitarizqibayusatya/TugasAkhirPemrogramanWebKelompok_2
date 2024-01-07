@@ -3,7 +3,10 @@
 2. Rifqi Herlambang
 3. Bayu Rohmadani
 4. Anggita Rizqi Bayusatya
-5. 
+
+<h2>Link file zip : </h2>
+https://drive.google.com/file/d/1_0uk0DuGs4m5rzfqnXDwRr0b8MtCx-NO/view?usp=sharing
+   
 ## Deskripsi Aplikasi
 Import file sql yang ada didalam folder db_sql ke phpmy admin.
 <br><br>
