@@ -5,7 +5,7 @@
 4. Anggita Rizqi Bayusatya
 
 <h2>Link file zip : </h2>
-https://drive.google.com/file/d/1_0uk0DuGs4m5rzfqnXDwRr0b8MtCx-NO/view?usp=drivesdk
+https://drive.google.com/file/d/1bIPSrlgCet56yOHzsqX2BQPEBJFYK7eG/view?usp=sharing
    
 ## Deskripsi Aplikasi
 Import file sql yang ada didalam folder db_sql ke phpmy admin.
